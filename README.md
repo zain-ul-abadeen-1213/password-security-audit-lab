@@ -110,27 +110,27 @@ Written from this lab's findings:
 
 **John — hashes loaded, `karachi123` cracked, full rockyou run DONE in ~2 seconds:**
 
-![John crack result](screenshots/john-crack-result.png)
+![John crack result](john-crack-result.png)
 
 **John `--show` — "1 password hash cracked, 2 left":**
 
-![John show result](screenshots/john-show-result.png)
+![John show result](john-show-result.png)
 
 **Hashcat — Status: Exhausted, Recovered 1/3, 1,352 kH/s on the VM's CPU:**
 
-![Hashcat run result](screenshots/hashcat-run-result.png)
+![Hashcat run result](hashcat-run-result.png)
 
 **Hashcat `--show` — the cracked hash:password pair:**
 
-![Hashcat show result](screenshots/hashcat-show-result.png)
+![Hashcat show result](hashcat-show-result.png)
 
 **Medusa — `ACCOUNT FOUND: zain / zain123 [SUCCESS]` against my own VM's SSH:**
 
-![Medusa success](screenshots/medusa-success.png)
+![Medusa success](medusa-success.png)
 
 **Hydra — "1 valid password found" (`zain123`):**
 
-![Hydra success](screenshots/hydra-success.png)
+![Hydra success](hydra-success.png)
 
 ## Lab notes
 
